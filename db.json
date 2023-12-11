@@ -1,0 +1,119 @@
+{
+  "enquire": [
+    {
+      "firstName": "Adell",
+      "lastName": "mohamed",
+      "email": "kskd@kd.com",
+      "gender": "Men",
+      "package": "Yearly",
+      "goal": [
+        "Healthier Digestive System"
+      ],
+      "mobile": "3323232",
+      "weight": 67,
+      "height": "68",
+      "bmi": 0.01448961937716263,
+      "bmiResult": "Under Wight",
+      "requireTrainer": "Yes",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-09T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "kjk",
+      "lastName": "ess",
+      "email": "dx",
+      "gender": "Men",
+      "package": "Quarterly",
+      "goal": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body"
+      ],
+      "mobile": "xes",
+      "weight": 112,
+      "height": "33",
+      "bmi": 0.10284664830119375,
+      "bmiResult": "Under Wight",
+      "requireTrainer": "Yes",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-09T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": "llL",
+      "lastName": "y",
+      "email": "y",
+      "gender": "Men",
+      "package": "Monthly",
+      "goal": [
+        "Energy and Endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
+      ],
+      "mobile": "y",
+      "weight": 8,
+      "height": "8",
+      "bmi": 0.125,
+      "bmiResult": "Under Wight",
+      "requireTrainer": "Yes",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-10-01T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "Adel",
+      "lastName": "Moohamed",
+      "email": "adek@gmail.com",
+      "gender": "Men",
+      "package": "Monthly",
+      "goal": [
+        "Energy and Endurance"
+      ],
+      "mobile": "012201039",
+      "weight": 132,
+      "height": "1.3",
+      "bmi": 78.10650887573964,
+      "bmiResult": "Over Wight",
+      "requireTrainer": "Yes",
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2024-01-08T22:00:00.000Z",
+      "id": 5
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "gender": "",
+      "package": "",
+      "goal": "",
+      "mobile": "",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "requireTrainer": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 6
+    },
+    {
+      "firstName": "",
+      "lastName": "",
+      "email": "",
+      "gender": "",
+      "package": "",
+      "goal": "",
+      "mobile": "99",
+      "weight": "",
+      "height": "",
+      "bmi": "",
+      "bmiResult": "",
+      "requireTrainer": "",
+      "haveGymBefore": "",
+      "enquiryDate": "",
+      "id": 7
+    }
+  ]
+}
